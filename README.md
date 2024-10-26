@@ -32,9 +32,9 @@
 ## With AI everywhere, AI will move into all industries, from finance, to education, to healthcare.<br>
 
 ## AI can increase productivity, create new opportunities, provide deeper insights, and enable personalization.<br>
-What Is Artificial Intelligence (AI)?(opens in a new tab) – A detailed look into artificial intelligence from IBM provides more information on types of AI, the history of AI, and the future of AI.
-Structured vs. Unstructured Data: What’s the Difference?(opens in a new tab) – IBM Cloud experts provide examples comparing the pros and cons of structured and unstructured data.
-Distinguishing between Narrow AI, General AI and Super AI(opens in a new tab) – A simple, but necessary guide offered by Medium.
-What is generative AI?(opens in a new tab) - An IBM Research expert provides an introduction to generative AI and how it works.
-Humans vs. AI: who makes the best decisions?(opens in a new tab) – IBM Master Inventor Martin Keene answers the question, “Who makes the best decisions, humans or AI?”
-Can AI Help Climate Change?(opens in a new tab) – In this video, Stacey Gifford, an IBM Research chemist, explains how artificial intelligence can be used to develop new materials to help address climate change.
+### [What Is Artificial Intelligence (AI)](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)?(opens in a new tab) – A detailed look into artificial intelligence from IBM provides more information on types of AI, the history of AI, and the future of AI.<br>
+### Structured vs. Unstructured Data: What’s the Difference?(https://www.ibm.com/cloud/blog/structured-vs-unstructured-data) – IBM Cloud experts provide examples comparing the pros and cons of structured and unstructured data.<br>
+### Distinguishing between Narrow AI, General AI and Super AI (https://medium.com/mapping-out-2050/distinguishing-between-narrow-ai-general-ai-and-super-ai-a4bc44172e22) – A simple, but necessary guide offered by Medium.<br>
+### What is generative AI? (https://research.ibm.com/blog/what-is-generative-AI) - An IBM Research expert provides an introduction to generative AI and how it works.<br>
+### Humans vs. AI: who makes the best decisions? (https://www.youtube.com/watch?v=8lo1s29ODj8) – IBM Master Inventor Martin Keene answers the question, “Who makes the best decisions, humans or AI?”.<br>
+### Can AI Help Climate Change? (https://www.youtube.com/watch?v=92yV9afmc38) – In this video, Stacey Gifford, an IBM Research chemist, explains how artificial intelligence can be used to develop new materials to help address climate change.<br>
